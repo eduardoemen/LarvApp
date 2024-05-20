@@ -3,3 +3,4 @@ pandas
 fpdf
 mysqlclient
 mysql.connector
+SQLAlchemy
