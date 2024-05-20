@@ -1,3 +1,4 @@
 streamlit
 pandas
 fpdf
+mysqlclient==8.0.37
