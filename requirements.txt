@@ -4,3 +4,4 @@ fpdf
 mysqlclient
 mysql.connector
 SQLAlchemy
+matplotlib.pyplot
