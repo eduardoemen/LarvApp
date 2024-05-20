@@ -1,7 +1,7 @@
 import streamlit as st 
 import pandas as pd
 import mysql.connector
-import matplotlib.pyplot as plt
+
 
 conn = mysql.connector.connect( host="localhost",
                                     port="3306",
