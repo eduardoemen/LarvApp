@@ -3,7 +3,7 @@ import pandas as pd
 import mysql.connector
 
 
-conn = mysql.connector.connect( host="localhost",
+conn = mysql.connector.connect( host="db",
                                     port="3306",
                                     user="root",
                                     passwd="0912853207",
